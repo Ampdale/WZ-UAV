@@ -10,5 +10,7 @@ Disclaimer: I am not resposible if your account gets banned
 <hr>
   <a href="https://github.com/Ampdale/WZ-UAV/releases/tag/UAV" 
      <hr>
+  </h4>
+  <h2>
   Download
-</h4>
+</h2>
