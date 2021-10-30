@@ -8,5 +8,7 @@ Ultimate UAV is a Call Of Duty: Warzone UAV cheat that allows you to have unlimi
 <hr>
 Disclaimer: I am not resposible if your account gets banned
 <hr>
-  <a href="https://github.com/Ampdale/WZ-UAV/releases/tag/UAV" alt="Download">
+  <a href="https://github.com/Ampdale/WZ-UAV/releases/tag/UAV" 
+     <hr>
+  Download
 </h4>
